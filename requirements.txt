@@ -1,6 +1,0 @@
-# Dependências do servidor de updates
-# Use este arquivo no Railway
-
-Flask==3.0.0
-packaging==23.2
-
